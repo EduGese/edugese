@@ -1,18 +1,20 @@
-<h1 align="center">Hi 👋, I'm Edu Gonzalez</h1><img src="https://komarev.com/ghpvc/?username=edugese&label=Profile%20views&color=0e75b6&style=flat" alt="edugese" />
+<h1 align="center">Hi 👋, I'm Edu Gonzalez</h1>
+<br/>
+<div align="center"><img  src="https://komarev.com/ghpvc/?username=edugese&label=Profile%20views&color=0e75b6&style=flat" alt="edugese" /></div>
+<br/>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Front-end++Back-end&center=true&width=380&height=45">
 </a>
 </p>
 
-<h3 align="center">Web Developer</h3>
+<!--<h3 align="center">📫 How to reach me</h3>
 
-<p align="center">  </p>
-
-<span align="center">📫 How to reach me </span> 
- **eddugonz@gmail.com**
+<div align="center">[eddugonz@gmail.com](url)</div> -->
+ 
+ 
 <h3 align="center">Connect with me:</h3>
-<p>
+<p align="center">
 <a href="https://linkedin.com/in/eduardo-gonzález-seco-0938a2a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo-gonzález-seco-0938a2a4" height="30" width="40" /></a>
 </p>
 
