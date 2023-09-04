@@ -66,11 +66,13 @@
 
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edugese&show_icons=true&locale=en&layout=compact&theme=transparent" alt="edugese" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edugese&show_icons=true&locale=en&theme=transparent" alt="edugese" /></p>
+<a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edugese&show_icons=true&locale=en&layout=compact&theme=transparent&langs_count=8" alt="edugese" /></a><!-- Lenguajes mas usados -->
+<a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edugese&show_icons=true&locale=en&theme=transparent" alt="edugese" /></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edugese&theme=transparent" alt="edugese" /></p>
+<a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edugese&theme=transparent" alt="edugese" /></a>
+
+
 
 
 
