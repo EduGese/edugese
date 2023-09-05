@@ -7,7 +7,6 @@
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Front-end++Back-end&center=true&width=380&height=45">
 </a>
 </p>
-
 <!--<h3 align="center">📫 How to reach me</h3>
 
 <div align="center">[eddugonz@gmail.com](url)</div> -->
@@ -18,7 +17,8 @@
 <a href="https://linkedin.com/in/eduardo-gonzález-seco-0938a2a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo-gonzález-seco-0938a2a4" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+
+<h2 align="center">Languages and Tools:</h2> 
 
 
 <div>
@@ -57,20 +57,29 @@
 <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </div>
- 
-  
+
+<br><br>
+<h2 align="center">My Statistics 📈 </h2> 
+
+
+<br>
+<div align="center" >
+	<div>
+		<a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edugese&show_icons=true&locale=en&layout=compact&theme=transparent&langs_count=8" alt="edugese" /></a>	
+	</div>
+	<div>
+		<a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edugese&show_icons=true&locale=en&theme=transparent" alt="edugese" /></a>	
+	</div>
+	<div>
+		<a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edugese&theme=transparent" alt="edugese" /></a>
+	</div>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
 
 
-</div>
 
 
-<a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edugese&show_icons=true&locale=en&layout=compact&theme=transparent&langs_count=8" alt="edugese" /></a><!-- Lenguajes mas usados -->
-<a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edugese&show_icons=true&locale=en&theme=transparent" alt="edugese" /></a>
 
-<a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edugese&theme=transparent" alt="edugese" /></a>
 
 
 
