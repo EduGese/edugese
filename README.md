@@ -7,9 +7,11 @@
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Front-end++Back-end&center=true&width=380&height=45">
 </a>
 </p>
-<!--<h3 align="center">📫 How to reach me</h3>
 
-<div align="center">[eddugonz@gmail.com](url)</div> -->
+<p>Apasionado desarrollador web junior con enfoque en soluciones digitales innovadoras. Amplia base en lenguajes, frameworks y bases de datos.</p>
+
+
+
  
  
 <h3 align="center">Connect with me:</h3>
