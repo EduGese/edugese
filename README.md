@@ -1,10 +1,3 @@
-<style>
-  p {
-    color: red;
-    font-size: 18px;
-  }
-</style>
-
 <h1 align="center">Hi 👋, I'm Edu Gonzalez</h1>
 <br/>
 <div align="center"><img  src="https://komarev.com/ghpvc/?username=edugese&label=Profile%20views&color=0e75b6&style=flat" alt="edugese" /></div>
@@ -15,9 +8,15 @@
 </a>
 </p>
 
-<p font-weight="bold">Apasionado desarrollador web junior con enfoque en soluciones digitales innovadoras. Amplia base en lenguajes, frameworks y bases de datos.</p>
-<p>Inquieto por naturaleza, siempre busco algo nuevo que aprender</p>
-<p>En contínua formación y aprendizaje 🤓</p>
+<div align="center">
+
+ ## Apasionado desarrollador web junior con enfoque en soluciones digitales innovadoras. Amplia base en lenguajes, frameworks y bases de datos.
+>>Inquieto por naturaleza, siempre busco algo nuevo que aprender
+
+>>En contínua formación y aprendizaje 🤓
+</div>
+
+
 
 
 
