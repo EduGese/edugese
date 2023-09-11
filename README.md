@@ -10,10 +10,10 @@
 
 <div align="center">
 
- ## Apasionado desarrollador web junior con enfoque en soluciones digitales innovadoras. Amplia base en lenguajes, frameworks y bases de datos.
->>Inquieto por naturaleza, siempre busco algo nuevo que aprender
 
->>En contínua formación y aprendizaje 🤓
+ ## Inquieto por naturaleza, siempre busco algo nuevo que aprender
+
+### En contínua formación y aprendizaje 🤓
 </div>
 
 
