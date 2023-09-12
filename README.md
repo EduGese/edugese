@@ -86,9 +86,9 @@
 	<div>
 		<a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edugese&show_icons=true&locale=en&theme=transparent" alt="edugese" /></a>	
 	</div>
-	<div>
+	<!-- <div>
 		<a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edugese&theme=transparent" alt="edugese" /></a>
-	</div>
+	</div>-->
 </div>
 
 
