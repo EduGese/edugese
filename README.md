@@ -11,9 +11,9 @@
 <div align="center">
 
 
- ## Inquieto por naturaleza, siempre busco algo nuevo que aprender
+ ## Naturally curious, I'm always looking for something new to learn.
 
-### En contínua formación y aprendizaje 🤓
+### Continuously in training and learning 🤓
 </div>
 
 
