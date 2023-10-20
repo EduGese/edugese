@@ -14,6 +14,8 @@
  ## Naturally curious, I'm always looking for something new to learn.
 
 ### Continuously in training and learning 🤓
+
+#### I enjoy maintaining projects and continuously developing new ones as part of my hobbies in my free time, to enhance, stay up-to-date, and learn
 </div>
 
 
