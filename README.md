@@ -81,17 +81,22 @@
 
 
 <br>
-<div align="center" >
-	<div>
-		<a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edugese&show_icons=true&locale=en&layout=compact&theme=transparent&langs_count=8" alt="edugese" /></a>	
-	</div>
-	<div>
-		<a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edugese&show_icons=true&locale=en&theme=transparent" alt="edugese" /></a>	
-	</div>
-	<!-- <div>
-		<a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edugese&theme=transparent" alt="edugese" /></a>
-	</div>-->
+<div align="center">
+  <div style="display: flex; justify-content: center;">
+    <div >
+      <a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edugese&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=8" alt="edugese" width="35%" /></a>
+    </div>
+    <div >
+      <a><img align="rigth" src="https://github-readme-stats.vercel.app/api?username=edugese&show_icons=true&locale=en&theme=radical" alt="edugese" /></a>
+    </div>
+  </div>
+  <br><br>
+  <div>
+    <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edugese&theme=radical" alt="edugese" width="60%" /></a>
+  </div>
 </div>
+
+
 
 
 
