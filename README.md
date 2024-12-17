@@ -75,6 +75,8 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>  
 <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="60" height="60"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png" alt="linux" width="80" height="60"/> </a>
+	
 </div>
 
 <br><br>
@@ -92,9 +94,9 @@
     </div>
   </div>
   <br><br>
-  <div>
+  <!--<div>
     <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edugese&theme=radical" alt="edugese" width="60%" /></a>
-  </div>
+  </div>-->
 </div>
 
 
